@@ -23,3 +23,15 @@ Possible names:
 - Free agents
 - Active letterbox
 - Actors
+
+---
+
+个人笔记
+
+run:
+
+```
+python2 tf-28.py ..\input.txt
+```
+
+- `exercise-28_2.py`：练习28.2。**3+1线程**：编写另一个版本，使之除出线程之外，只拥有三个主动对象。
